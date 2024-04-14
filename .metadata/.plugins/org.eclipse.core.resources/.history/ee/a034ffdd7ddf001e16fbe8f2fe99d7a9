@@ -1,0 +1,23 @@
+package com.simplecalc;
+
+//import java.util.Scanner;
+
+public class SimpleCalc {
+
+	public static void main(String[] args) {
+	
+	 for(int i = 0; i <=3; i++){
+		 for(int j = 1 ; j <=i; j++){
+			 System.out.print("*");		
+		 }
+	 System.out.println("*");	
+	 }
+	 for(int x = 3; x>=0; x --) {
+		 for(int y = 1; y <=x; y++) {
+			 System.out.println("*");
+		 }
+		 System.out.print("*");
+	 }
+}
+
+}

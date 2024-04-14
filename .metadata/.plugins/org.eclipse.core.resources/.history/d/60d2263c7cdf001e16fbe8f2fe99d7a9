@@ -1,0 +1,15 @@
+package com.simplecalc;
+
+//import java.util.Scanner;
+
+public class SimpleCalc {
+
+	public static void main(String[] args) {
+	
+	 for(int i = 0; i <=1; i++) {
+		 System.out.printl("*");		
+	 }
+	
+
+	}
+}
